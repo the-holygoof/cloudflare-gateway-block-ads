@@ -3529,6 +3529,7 @@ ad-server.gulasidorna.se
 ad-server.linkvertise.com
 ad-serving.iocreate.cloud
 ad-shield.cc
+ad-shield.dev
 ad-space.net
 ad-specs.guoshipartners.com
 ad-splash-tracking.hktvmall.com
@@ -25915,7 +25916,6 @@ hosierysibling.com
 hospitableposition.com
 hospitalforgery.com
 hosrqzpxezdou.online
-host-override.ad-shield.dev
 host72x.cfd
 hostadsmarkets.com
 hostave.net
